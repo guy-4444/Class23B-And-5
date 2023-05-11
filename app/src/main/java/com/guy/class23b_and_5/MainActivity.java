@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
         new Thread(new Runnable() {
             @Override
             public void run() {
-                String API_KEY = "79fcec17af5e440dfadaf760c3d543fd";
+                String API_KEY = "";
                 String lat = "32.11321986808";
                 String lon = "34.81776352918";
 
